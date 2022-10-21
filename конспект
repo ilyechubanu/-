@@ -1,0 +1,15 @@
+Конеспект 21.10.2022 
+Стурктура SQL запросов 
+Select ('стобцы или * для выбора всех столбцов: обязательно')
+From('таблица; обязательно')
+Where ('условие/фильтрация,например, city "Moscow"; необязательно')
+Group by ('столбцы,по которому хотим сгруппировать данные; необязательно')
+Having(' условные/фильтрация на уровене сгруппированных данных; необязательно')
+Order by('столбец, по которому хотим отсортировать вывод; необязательно').
+Select name FROM users выводим все имена 
+Select count (*) from information_schema.tables where table_type="Base table"; 
+Select table_name from information_schema.tables where table_type='base table';
+select *from users;
+select *from users where name=('Олег');
+select *name from users
+select *from user, grades 
