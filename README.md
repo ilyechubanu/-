@@ -1,4 +1,5 @@
-Эков Илья 122 группа
+Эков Илья 122 группа 
+Полезные ссылки
 codepen profile - https://codepen.io/ilyechubanu
-Все работы - https://github.com/ilyechubanu/itworks
+Все работы по информатике - https://github.com/ilyechubanu/itworks
 githab.io - https://github.com/ilyechubanu/ilyechubanu.github.io
