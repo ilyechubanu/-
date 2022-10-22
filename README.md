@@ -4,3 +4,4 @@
  - codepen profile - https://codepen.io/ilyechubanu
  - Все работы по информатике - https://github.com/ilyechubanu/itworks
  - githab.io - https://github.com/ilyechubanu/ilyechubanu.github.io
+- wordpress site - https://wordpress.com/view/chubanu.wordpress.com
