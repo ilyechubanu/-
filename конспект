@@ -13,3 +13,6 @@ select *from users;
 select *from users where name=('Олег');
 select *name from users
 select *from user, grades 
+Конспект 28.10.2022 
+Логика
+Законы логики
